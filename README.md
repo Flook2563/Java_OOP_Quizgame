@@ -74,6 +74,10 @@ Code นี้จะทำการย้อนกลับไปหน้าแ
 
 - ส่วนที่ [2] จะเป็นเกี่ยวกับคำตอบ 4 ตัวเลือก เลือกข้อที่คิดว่าถูกที่สุด
 
+###### ตัวโปรแกรม Quiz game.
+> ต้องมีโปรแกรม Java(TM) Platform SE binary (ที่มากับติดตั้ง Netbane ) ในการรันโปรแกรม
+
+Link Download : [Click!](https://drive.google.com/file/d/1cetUL3qFGOJkRzhiptEho7PEJZtyXzoI/view?usp=sharing/).
 
 
 ## ผู้พัฒนา
