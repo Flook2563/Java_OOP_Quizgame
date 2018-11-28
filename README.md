@@ -21,9 +21,9 @@ _รูปร่างหน้าต่างโปรแกรม **Quiz Game.
 ```
 โดยมีCodeที่สำคัญคือ 
 
-new page2().setVisible(true);
+_new page2().setVisible(true);_
   
-this.setVisible(false);
+_this.setVisible(false);_
 
 Code นี้จะช่วยให้เมื่อกดStar แล้วจะเด้งไปหน้าต่างต่อไปที่มีชื่อว่า page2
 
