@@ -13,7 +13,3 @@
 
 _รูปร่างหน้าต่างโปรแกรม **Quiz Game.**_
 
-
-# The largest heading
-## The second largest heading
-###### The smallest heading
