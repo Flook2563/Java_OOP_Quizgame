@@ -126,7 +126,7 @@ public class page2 extends javax.swing.JFrame {
 
     private void btnClickActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnClickActionPerformed
         // TODO add your handling code here:
-        JOptionPane.showMessageDialog(this, "Welcome to Quiz game. : " + txtName.getText()+"\n Eiei");
+        JOptionPane.showMessageDialog(this, "Welcome to Quiz game. : " + txtName.getText());
         new page3().setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_btnClickActionPerformed
