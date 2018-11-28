@@ -40,3 +40,7 @@ System.exit(0);
 Code นี้จะทำการปิดโปรแกรม แล้วทำการเคลียร์ข้อมูล
 
 ```
+![3](https://user-images.githubusercontent.com/45255939/49170032-c791b500-f36d-11e8-866a-c808e3e12066.PNG)
+
+![4](https://user-images.githubusercontent.com/45255939/49170031-c6f91e80-f36d-11e8-9aaa-a1c4baa2060a.PNG)
+
