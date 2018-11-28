@@ -13,3 +13,7 @@
 
 _รูปร่างหน้าต่างโปรแกรม **Quiz Game.**_
 
+> **รายละเอียดเกี่ยวกับ Quiz Game**
+
+![2](https://user-images.githubusercontent.com/45255939/49168718-b6937480-f36a-11e8-9699-4f9e3b860b98.PNG)
+
